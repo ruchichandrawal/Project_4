@@ -58,7 +58,11 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 
 
-**Lauren Phelps**
+# Comparison of Females vs Males Who Seek Treatment for Poor Mental Health by Age Range - Lauren Phelps
+
+![image](https://github.com/ruchichandrawal/Project_4/assets/127759770/c969bd01-70a5-4eef-b824-dfa5401e5798)
+![image](https://github.com/ruchichandrawal/Project_4/assets/127759770/fa985a91-d862-4e1d-92b5-17521f863627)
+
 
 
 
