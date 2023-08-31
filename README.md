@@ -145,10 +145,10 @@ Note: The Correlation COefficient concludes that remote work vs mental health do
 
 
 
-**Tyler Williams**
-
-
-
+## Tyler Williams
+[Interactive Map](./test_tyler/index.html)
+![Map of Eating Disorders](./test_tyler/screenshot1.PNG)
+![Map of Anxiety and Depression](./test_tyler/screenshot2.PNG)
 
 
 ## Conclusion
