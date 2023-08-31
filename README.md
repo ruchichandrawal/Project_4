@@ -117,8 +117,13 @@ https://public.tableau.com/app/profile/ruchi.chandrawal/viz/WorldwideMentalHealt
 
 
 **Tye Smith**
+*Pie Chart percentage of each answer in survey*
 
 ![alt text](https://github.com/ruchichandrawal/Project_4/blob/main/test_tye/images/Pie_chart_edited.png)
+
+*Correlation Coefficient*
+Note: The Correlation COefficient concludes that remote work vs mental health does not have a relationship with a coefficient of (-0.0073). It would need to be closer to -1 or 1 to show any kind of significance in regards to a relationship between remote work and mental health.
+![alt text](https://github.com/ruchichandrawal/Project_4/blob/main/test_tye/images/Screenshot%20(37).png)
 
 
 
