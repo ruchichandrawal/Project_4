@@ -9,9 +9,8 @@ A few were simply nonsense answers, i.e. "A little about you" or "Nah". Some sim
 ### The Age column had Bogus Age vValues
 There were 5 values in this column that were either negative or well over 100. In either case we know this is not accurate but if we want incude that count it needs to be addressed. We decided to replace any value less than 0 OR greater than 99 with 404 (for error) to use in a later code. This later code included binning the Ages into age_ranges.
 
-## 
-
 ## Initial Cleaning and Preprocessing
+Started the main file, `survey_data_cleaned.ipynb` performing the initial cleaning and preprocessing of the data.
 
 ### Create Bar Charts to display the participants willingness to discuss Mental Health issues 
 There will be one chart for `coworkers` and another for `supervisor`. First I will create DataFrames that groupby `age_range`, `Gender`, and `coworkers` or `supervisor`. Categories for the chart will include 'Yes,' 'No,' and 'Some of them' just like columns. The grouped data will then be filtered by combination of `age_range` and `Gender` and then we will count the occurrences of each category_count collected for each category of age range and gender. Finally, the category_counts are appended to the list. Now, we will plot the columns for each category in the chart, then set the labels and title.
