@@ -110,8 +110,7 @@ https://public.tableau.com/app/profile/ruchi.chandrawal/viz/WorldwideMentalHealt
 
 
 
-**Steve Tuttle**
-## Initial Cleaning and Exploring of Survey.CSV file
+# Initial Cleaning and Exploring of Survey.CSV file - Steve Tuttle
 Creating Exploration file called `survey_data_exploration.ipynb` to determine what needs to be fixed/cleaned in the preprocessing step of the project. In this file, I will determine the true size of the file, the content of column, and what if any issues there are with the data (and the most efficient way to address them before starting into the "main" code). Some of the larger concerns were as follows:
 
 ### There were intitially 49 Unique Genders in the Dataset
@@ -130,9 +129,9 @@ There will be one chart for `coworkers` and another for `supervisor`. First I wi
 
 ![supervisor_barchart](https://github.com/ruchichandrawal/Project_4/blob/main/test_steve/Image/discuss_supervisor.png)
 
-**Tye Smith**
 
-*Pie Chart percentage of each answer in survey*
+
+# Pie Chart percentage of each answer in survey - Tye Smith
 
 Note: The pie chart shows 73 percent of all survey answers are mixed with no correlation, meanwhile all data that shows any kind of trend is under 20 percent. This shows that working from home vs not working from home is not a predictor of whather someone will show mental and physical illness.
 
