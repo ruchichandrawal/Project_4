@@ -52,7 +52,7 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 5. **Data-Driven Insights:** The project's approach of analyzing survey data to explore mental health trends serves as a model for generating data-driven insights. These insights can contribute to informed decision-making and the development of strategies to address mental health challenges.
 
-## Presentation
+## Individual Contribution
 **Emily Curlin**
 
 
@@ -70,7 +70,7 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 
 
-# Global Mental Disorder Visualization with Tableau - By Ruchi Chandrawal
+# Global Mental Disorder Visualization with Tableau - Ruchi Chandrawal
 
 This repository presents an in-depth tableau visualization of five major mental disorders on a global scale. The visualization consists of two interactive dashboards and two insightful stories that delve into the prevalence of mental disorders across different countries in the year 2014. The goal of this project is to provide a clear and comprehensive overview of the countries with the highest and lowest reported cases of mental disorders, shedding light on this critical aspect of global health.
 
@@ -110,15 +110,36 @@ https://public.tableau.com/app/profile/ruchi.chandrawal/viz/WorldwideMentalHealt
 
 
 
-**Steve Tuttle**
+# Initial Cleaning and Exploring of Survey.CSV file - Steve Tuttle
+Creating Exploration file called `survey_data_exploration.ipynb` to determine what needs to be fixed/cleaned in the preprocessing step of the project. In this file, I will determine the true size of the file, the content of column, and what if any issues there are with the data (and the most efficient way to address them before starting into the "main" code). Some of the larger concerns were as follows:
+
+### There were intitially 49 Unique Genders in the Dataset
+A few were simply nonsense answers, i.e. "A little about you" or "Nah". Some simply did not want to be classified in the traditional sense, i.e. "non-binary" or "Genderqueer". While many others were individuals not maintaining a consistent way of spelling 'Male' and 'Female' with examples including "male", "M", "Cis Male", and even "Mail" and really everything in between. After going through the list, the Gender categories were narrowed to just three: 'Male', 'Female', and 'Other'. Other would represent the genders who were not clearly defined, as well as the trans community. The traditional 'Male' and 'Female' categories are more self explanatory. 
+
+### The Age column had Bogus Age vValues
+There were 5 values in this column that were either negative or well over 100. In either case we know this is not accurate but if we want incude that count it needs to be addressed. We decided to replace any value less than 0 OR greater than 99 with 404 (for error) to use in a later code. This later code included binning the Ages into age_ranges.
+
+## Initial Cleaning and Preprocessing
+Started the main file, `survey_data_cleaned.ipynb` performing the initial cleaning and preprocessing of the data.
+
+### Create Bar Charts to display the participants willingness to discuss Mental Health issues 
+There will be one chart for `coworkers` and another for `supervisor`. First I will create DataFrames that groupby `age_range`, `Gender`, and `coworkers` or `supervisor`. Categories for the chart will include 'Yes,' 'No,' and 'Some of them' just like columns. The grouped data will then be filtered by combination of `age_range` and `Gender` and then we will count the occurrences of each category_count collected for each category of age range and gender. Finally, the category_counts are appended to the list. Now, we will plot the columns for each category in the chart, then set the labels and title.
+
+![coworkers_barchart](https://github.com/ruchichandrawal/Project_4/blob/main/test_steve/Image/discuss_coworkers.png)
+
+![supervisor_barchart](https://github.com/ruchichandrawal/Project_4/blob/main/test_steve/Image/discuss_supervisor.png)
 
 
 
+# Pie Chart percentage of each answer in survey - Tye Smith
 
+Note: The pie chart shows 73 percent of all survey answers are mixed with no correlation, meanwhile all data that shows any kind of trend is under 20 percent. This shows that working from home vs not working from home is not a predictor of whather someone will show mental and physical illness.
 
-**Tye Smith**
+![alt text](https://github.com/ruchichandrawal/Project_4/blob/main/test_tye/images/Pie_chart_edited.png)
 
-
+## Correlation Coefficient
+Note: The Correlation COefficient concludes that remote work vs mental health does not have a relationship with a coefficient of (-0.0073). It would need to be closer to -1 or 1 to show any kind of significance in regards to a relationship between remote work and mental health.
+![alt text](https://github.com/ruchichandrawal/Project_4/blob/main/test_tye/images/Screenshot%20(37).png)
 
 
 
