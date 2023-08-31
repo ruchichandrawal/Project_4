@@ -118,7 +118,7 @@ https://public.tableau.com/app/profile/ruchi.chandrawal/viz/WorldwideMentalHealt
 
 **Tye Smith**
 
-![image]()
+![image](test_tye/images/Screenshot (36).png)
 ![image]()
 
 
