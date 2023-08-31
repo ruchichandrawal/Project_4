@@ -58,15 +58,52 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 
 
-**Lauren Phelps**
+# Comparison of Females vs Males Who Seek Treatment for Poor Mental Health by Age Range - Lauren Phelps
+
+![image](https://github.com/ruchichandrawal/Project_4/assets/127759770/c969bd01-70a5-4eef-b824-dfa5401e5798)
+![image](https://github.com/ruchichandrawal/Project_4/assets/127759770/fa985a91-d862-4e1d-92b5-17521f863627)
 
 
 
 
 
 
-**Ruchi Chandrawal** 
 
+
+# Global Mental Disorder Visualization with Tableau - By Ruchi Chandrawal
+
+This repository presents an in-depth tableau visualization of five major mental disorders on a global scale. The visualization consists of two interactive dashboards and two insightful stories that delve into the prevalence of mental disorders across different countries in the year 2014. The goal of this project is to provide a clear and comprehensive overview of the countries with the highest and lowest reported cases of mental disorders, shedding light on this critical aspect of global health.
+
+## Introduction
+
+Mental disorders have become a significant global health concern affecting millions of lives worldwide. This Tableau visualization project aims to depict the prevalence of five major mental disorders across various countries during the year 2014. Through interactive dashboards and insightful stories, we aim to provide a deeper understanding of the countries with the highest and lowest reported cases of mental disorders.
+
+## Dashboards
+
+### Dashboard 1: Global Overview
+
+This dashboard provides a comprehensive overview of the prevalence of mental disorders across different continents. Users can interact with the visualizations to explore the distribution of disorders and compare the relative rates between regions.
+
+### Dashboard 2: Country-Level Analysis
+
+In this dashboard, users can select specific countries of interest and visualize the prevalence of mental disorders within those countries. The dashboard also offers a temporal view, allowing users to observe trends in mental disorder rates over time.
+
+## Stories
+
+### Story 1: Identifying High-Risk Countries and low risk countries
+
+This story focuses on countries with the highest and lowest reported cases of mental disorders in 2014. Through a combination of visualizations, it highlights the regions where mental disorders were most prevalent and least prevalent provides potential factors contributing to these rates.
+
+### Story 2: Analysis of mental disorder in Countries
+This story shows final analysis of countries
+
+## Methodology
+
+The visualization is built using Tableau, leveraging its interactive features to enable users to explore the data dynamically. The data was cleaned, transformed, and aggregated to fit the visualization's scope, ensuring accuracy in the representation of mental disorder prevalence.
+
+## Tableau work link
+
+https://public.tableau.com/app/profile/ruchi.chandrawal/viz/WorldwideMentalHealthDisorderIn2014/Story2?publish=yes
 
 
 
