@@ -52,7 +52,7 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 5. **Data-Driven Insights:** The project's approach of analyzing survey data to explore mental health trends serves as a model for generating data-driven insights. These insights can contribute to informed decision-making and the development of strategies to address mental health challenges.
 
-## Presentation
+## Individual Contribution
 **Emily Curlin**
 
 
@@ -70,7 +70,7 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 
 
-# Global Mental Disorder Visualization with Tableau - By Ruchi Chandrawal
+# Global Mental Disorder Visualization with Tableau - Ruchi Chandrawal
 
 This repository presents an in-depth tableau visualization of five major mental disorders on a global scale. The visualization consists of two interactive dashboards and two insightful stories that delve into the prevalence of mental disorders across different countries in the year 2014. The goal of this project is to provide a clear and comprehensive overview of the countries with the highest and lowest reported cases of mental disorders, shedding light on this critical aspect of global health.
 
