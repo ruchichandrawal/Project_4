@@ -1,0 +1,3443 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.709953,33.93911 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "Unnamed: 0":29,
+    "Entity":"Afghanistan",
+    "Year":2019,
+    "Schizophrenia Rate":0.21777739,
+    "Depression Rate":4.945168,
+    "Anxiety Rate":4.8510346,
+    "Bipolar Rate":0.6996446,
+    "ED Rate":0.117413975
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.168331,41.153332 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "Unnamed: 0":59,
+    "Entity":"Albania",
+    "Year":2019,
+    "Schizophrenia Rate":0.2875006,
+    "Depression Rate":2.4602032,
+    "Anxiety Rate":3.8375373,
+    "Bipolar Rate":0.5420086,
+    "ED Rate":0.1366484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.659626,28.033886 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "Unnamed: 0":89,
+    "Entity":"Algeria",
+    "Year":2019,
+    "Schizophrenia Rate":0.24913543,
+    "Depression Rate":4.1296806,
+    "Anxiety Rate":4.771976,
+    "Bipolar Rate":0.7562755,
+    "ED Rate":0.2106033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.132217,-14.270972 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "Unnamed: 0":119,
+    "Entity":"American Samoa",
+    "Year":2019,
+    "Schizophrenia Rate":0.30339977,
+    "Depression Rate":2.659042,
+    "Anxiety Rate":4.044245,
+    "Bipolar Rate":0.27973238,
+    "ED Rate":0.12815624
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.601554,42.546245 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "Unnamed: 0":149,
+    "Entity":"Andorra",
+    "Year":2019,
+    "Schizophrenia Rate":0.28651825,
+    "Depression Rate":3.6072073,
+    "Anxiety Rate":5.45341,
+    "Bipolar Rate":0.93481266,
+    "ED Rate":0.5208916
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.873887,-11.202692 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "Unnamed: 0":179,
+    "Entity":"Angola",
+    "Year":2019,
+    "Schizophrenia Rate":0.21982822,
+    "Depression Rate":5.7441936,
+    "Anxiety Rate":3.9340954,
+    "Bipolar Rate":0.5538995,
+    "ED Rate":0.13675597
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.796428,17.060816 ]
+    },
+    "properties": {
+    "FIELD1":209,
+    "Unnamed: 0":209,
+    "Entity":"Antigua and Barbuda",
+    "Year":2019,
+    "Schizophrenia Rate":0.28866282,
+    "Depression Rate":3.0286796,
+    "Anxiety Rate":4.3341727,
+    "Bipolar Rate":0.94397974,
+    "ED Rate":0.27095023
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "Unnamed: 0":239,
+    "Entity":"Argentina",
+    "Year":2019,
+    "Schizophrenia Rate":0.31154236,
+    "Depression Rate":2.4075098,
+    "Anxiety Rate":4.982973,
+    "Bipolar Rate":1.039092,
+    "ED Rate":0.33220056
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "FIELD1":269,
+    "Unnamed: 0":269,
+    "Entity":"Armenia",
+    "Year":2019,
+    "Schizophrenia Rate":0.28262022,
+    "Depression Rate":2.9836516,
+    "Anxiety Rate":3.1505976,
+    "Bipolar Rate":0.541465,
+    "ED Rate":0.12600231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.775136,-25.274398 ]
+    },
+    "properties": {
+    "FIELD1":299,
+    "Unnamed: 0":299,
+    "Entity":"Australia",
+    "Year":2019,
+    "Schizophrenia Rate":0.3886459,
+    "Depression Rate":4.382458,
+    "Anxiety Rate":5.8151646,
+    "Bipolar Rate":1.1250612,
+    "ED Rate":1.0316882
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "FIELD1":329,
+    "Unnamed: 0":329,
+    "Entity":"Austria",
+    "Year":2019,
+    "Schizophrenia Rate":0.27674544,
+    "Depression Rate":3.125201,
+    "Anxiety Rate":6.0064344,
+    "Bipolar Rate":0.90043485,
+    "ED Rate":0.5622296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.576927,40.143105 ]
+    },
+    "properties": {
+    "FIELD1":359,
+    "Unnamed: 0":359,
+    "Entity":"Azerbaijan",
+    "Year":2019,
+    "Schizophrenia Rate":0.2827107,
+    "Depression Rate":2.7526312,
+    "Anxiety Rate":2.4775383,
+    "Bipolar Rate":0.52214134,
+    "ED Rate":0.1438001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39628,25.03428 ]
+    },
+    "properties": {
+    "FIELD1":389,
+    "Unnamed: 0":389,
+    "Entity":"Bahamas",
+    "Year":2019,
+    "Schizophrenia Rate":0.284808,
+    "Depression Rate":3.0623364,
+    "Anxiety Rate":4.3490176,
+    "Bipolar Rate":0.8992322,
+    "ED Rate":0.2916803
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.637772,25.930414 ]
+    },
+    "properties": {
+    "FIELD1":419,
+    "Unnamed: 0":419,
+    "Entity":"Bahrain",
+    "Year":2019,
+    "Schizophrenia Rate":0.27094802,
+    "Depression Rate":4.5280886,
+    "Anxiety Rate":4.937836,
+    "Bipolar Rate":0.78144014,
+    "ED Rate":0.2906812
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.356331,23.684994 ]
+    },
+    "properties": {
+    "FIELD1":449,
+    "Unnamed: 0":449,
+    "Entity":"Bangladesh",
+    "Year":2019,
+    "Schizophrenia Rate":0.27618745,
+    "Depression Rate":4.6198096,
+    "Anxiety Rate":3.1809232,
+    "Bipolar Rate":0.38930306,
+    "ED Rate":0.11529978
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.543198,13.193887 ]
+    },
+    "properties": {
+    "FIELD1":479,
+    "Unnamed: 0":479,
+    "Entity":"Barbados",
+    "Year":2019,
+    "Schizophrenia Rate":0.28256494,
+    "Depression Rate":3.1782775,
+    "Anxiety Rate":4.328706,
+    "Bipolar Rate":0.9328537,
+    "ED Rate":0.2400891
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.953389,53.709807 ]
+    },
+    "properties": {
+    "FIELD1":509,
+    "Unnamed: 0":509,
+    "Entity":"Belarus",
+    "Year":2019,
+    "Schizophrenia Rate":0.2773241,
+    "Depression Rate":3.824539,
+    "Anxiety Rate":3.4831994,
+    "Bipolar Rate":0.5208894,
+    "ED Rate":0.1341819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.469936,50.503887 ]
+    },
+    "properties": {
+    "FIELD1":539,
+    "Unnamed: 0":539,
+    "Entity":"Belgium",
+    "Year":2019,
+    "Schizophrenia Rate":0.27416807,
+    "Depression Rate":3.5420222,
+    "Anxiety Rate":5.04724,
+    "Bipolar Rate":0.90031374,
+    "ED Rate":0.4368189
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "FIELD1":569,
+    "Unnamed: 0":569,
+    "Entity":"Belize",
+    "Year":2019,
+    "Schizophrenia Rate":0.27070037,
+    "Depression Rate":3.309065,
+    "Anxiety Rate":4.1840634,
+    "Bipolar Rate":0.9075041,
+    "ED Rate":0.19617338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "FIELD1":599,
+    "Unnamed: 0":599,
+    "Entity":"Benin",
+    "Year":2019,
+    "Schizophrenia Rate":0.21354277,
+    "Depression Rate":4.447893,
+    "Anxiety Rate":3.2288494,
+    "Bipolar Rate":0.5455701,
+    "ED Rate":0.099465676
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.75737,32.321384 ]
+    },
+    "properties": {
+    "FIELD1":629,
+    "Unnamed: 0":629,
+    "Entity":"Bermuda",
+    "Year":2019,
+    "Schizophrenia Rate":0.30534044,
+    "Depression Rate":3.177548,
+    "Anxiety Rate":4.329229,
+    "Bipolar Rate":0.9773684,
+    "ED Rate":0.3673627
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.433601,27.514162 ]
+    },
+    "properties": {
+    "FIELD1":659,
+    "Unnamed: 0":659,
+    "Entity":"Bhutan",
+    "Year":2019,
+    "Schizophrenia Rate":0.28670922,
+    "Depression Rate":4.024815,
+    "Anxiety Rate":3.2678254,
+    "Bipolar Rate":0.39228165,
+    "ED Rate":0.14370656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "FIELD1":689,
+    "Unnamed: 0":689,
+    "Entity":"Bolivia",
+    "Year":2019,
+    "Schizophrenia Rate":0.2665534,
+    "Depression Rate":3.3994322,
+    "Anxiety Rate":5.7405457,
+    "Bipolar Rate":0.88712376,
+    "ED Rate":0.23742174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.679076,43.915886 ]
+    },
+    "properties": {
+    "FIELD1":719,
+    "Unnamed: 0":719,
+    "Entity":"Bosnia and Herzegovina",
+    "Year":2019,
+    "Schizophrenia Rate":0.2866613,
+    "Depression Rate":2.7624497,
+    "Anxiety Rate":3.5371947,
+    "Bipolar Rate":0.5489406,
+    "ED Rate":0.13697994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.684866,-22.328474 ]
+    },
+    "properties": {
+    "FIELD1":749,
+    "Unnamed: 0":749,
+    "Entity":"Botswana",
+    "Year":2019,
+    "Schizophrenia Rate":0.22516066,
+    "Depression Rate":4.2572603,
+    "Anxiety Rate":3.5533912,
+    "Bipolar Rate":0.54089737,
+    "ED Rate":0.17784883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "FIELD1":779,
+    "Unnamed: 0":779,
+    "Entity":"Brazil",
+    "Year":2019,
+    "Schizophrenia Rate":0.27764335,
+    "Depression Rate":3.8015563,
+    "Anxiety Rate":7.410114,
+    "Bipolar Rate":1.1118531,
+    "ED Rate":0.23241082
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.727669,4.535277 ]
+    },
+    "properties": {
+    "FIELD1":809,
+    "Unnamed: 0":809,
+    "Entity":"Brunei",
+    "Year":2019,
+    "Schizophrenia Rate":0.3041013,
+    "Depression Rate":1.6031243,
+    "Anxiety Rate":2.856928,
+    "Bipolar Rate":0.60645264,
+    "ED Rate":0.4247467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.48583,42.733883 ]
+    },
+    "properties": {
+    "FIELD1":839,
+    "Unnamed: 0":839,
+    "Entity":"Bulgaria",
+    "Year":2019,
+    "Schizophrenia Rate":0.28809503,
+    "Depression Rate":2.6916606,
+    "Anxiety Rate":3.3973696,
+    "Bipolar Rate":0.46639755,
+    "ED Rate":0.15696159
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.561593,12.238333 ]
+    },
+    "properties": {
+    "FIELD1":869,
+    "Unnamed: 0":869,
+    "Entity":"Burkina Faso",
+    "Year":2019,
+    "Schizophrenia Rate":0.20788535,
+    "Depression Rate":4.378302,
+    "Anxiety Rate":3.116734,
+    "Bipolar Rate":0.5353396,
+    "ED Rate":0.092556745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.918886,-3.373056 ]
+    },
+    "properties": {
+    "FIELD1":899,
+    "Unnamed: 0":899,
+    "Entity":"Burundi",
+    "Year":2019,
+    "Schizophrenia Rate":0.20041312,
+    "Depression Rate":4.705153,
+    "Anxiety Rate":3.6385643,
+    "Bipolar Rate":0.5794055,
+    "ED Rate":0.071074806
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.990963,12.565679 ]
+    },
+    "properties": {
+    "FIELD1":929,
+    "Unnamed: 0":929,
+    "Entity":"Cambodia",
+    "Year":2019,
+    "Schizophrenia Rate":0.27349776,
+    "Depression Rate":2.9500995,
+    "Anxiety Rate":4.579762,
+    "Bipolar Rate":0.3179395,
+    "ED Rate":0.08394735
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.354722,7.369722 ]
+    },
+    "properties": {
+    "FIELD1":959,
+    "Unnamed: 0":959,
+    "Entity":"Cameroon",
+    "Year":2019,
+    "Schizophrenia Rate":0.21315666,
+    "Depression Rate":4.6046395,
+    "Anxiety Rate":3.1999922,
+    "Bipolar Rate":0.5344366,
+    "ED Rate":0.112020984
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.346771,56.130366 ]
+    },
+    "properties": {
+    "FIELD1":989,
+    "Unnamed: 0":989,
+    "Entity":"Canada",
+    "Year":2019,
+    "Schizophrenia Rate":0.28864193,
+    "Depression Rate":3.2904658,
+    "Anxiety Rate":4.3206058,
+    "Bipolar Rate":0.8052512,
+    "ED Rate":0.4285759
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.013197,16.002082 ]
+    },
+    "properties": {
+    "FIELD1":1019,
+    "Unnamed: 0":1019,
+    "Entity":"Cape Verde",
+    "Year":2019,
+    "Schizophrenia Rate":0.22955641,
+    "Depression Rate":4.8429317,
+    "Anxiety Rate":3.0854897,
+    "Bipolar Rate":0.5780113,
+    "ED Rate":0.13719739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.939444,6.611111 ]
+    },
+    "properties": {
+    "FIELD1":1049,
+    "Unnamed: 0":1049,
+    "Entity":"Central African Republic",
+    "Year":2019,
+    "Schizophrenia Rate":0.1913885,
+    "Depression Rate":5.9238467,
+    "Anxiety Rate":4.405564,
+    "Bipolar Rate":0.5299282,
+    "ED Rate":0.07151896
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.732207,15.454166 ]
+    },
+    "properties": {
+    "FIELD1":1079,
+    "Unnamed: 0":1079,
+    "Entity":"Chad",
+    "Year":2019,
+    "Schizophrenia Rate":0.21059208,
+    "Depression Rate":5.1334114,
+    "Anxiety Rate":3.3696513,
+    "Bipolar Rate":0.53775066,
+    "ED Rate":0.09834646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675147 ]
+    },
+    "properties": {
+    "FIELD1":1109,
+    "Unnamed: 0":1109,
+    "Entity":"Chile",
+    "Year":2019,
+    "Schizophrenia Rate":0.3177609,
+    "Depression Rate":3.6435125,
+    "Anxiety Rate":5.4619493,
+    "Bipolar Rate":0.9951639,
+    "ED Rate":0.35876754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.195397,35.86166 ]
+    },
+    "properties": {
+    "FIELD1":1139,
+    "Unnamed: 0":1139,
+    "Entity":"China",
+    "Year":2019,
+    "Schizophrenia Rate":0.30997753,
+    "Depression Rate":2.7240157,
+    "Anxiety Rate":3.1641822,
+    "Bipolar Rate":0.18180744,
+    "ED Rate":0.11261842
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "FIELD1":1169,
+    "Unnamed: 0":1169,
+    "Entity":"Colombia",
+    "Year":2019,
+    "Schizophrenia Rate":0.2798771,
+    "Depression Rate":2.2196279,
+    "Anxiety Rate":4.701662,
+    "Bipolar Rate":0.7398617,
+    "ED Rate":0.22084343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.872219,-11.875001 ]
+    },
+    "properties": {
+    "FIELD1":1199,
+    "Unnamed: 0":1199,
+    "Entity":"Comoros",
+    "Year":2019,
+    "Schizophrenia Rate":0.21719986,
+    "Depression Rate":4.2631598,
+    "Anxiety Rate":3.554554,
+    "Bipolar Rate":0.6087087,
+    "ED Rate":0.08927621
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.777671,-21.236736 ]
+    },
+    "properties": {
+    "FIELD1":1229,
+    "Unnamed: 0":1259,
+    "Entity":"Cook Islands",
+    "Year":2019,
+    "Schizophrenia Rate":0.31270695,
+    "Depression Rate":3.1608856,
+    "Anxiety Rate":4.08579,
+    "Bipolar Rate":0.28193375,
+    "ED Rate":0.15669662
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "FIELD1":1259,
+    "Unnamed: 0":1289,
+    "Entity":"Costa Rica",
+    "Year":2019,
+    "Schizophrenia Rate":0.28596833,
+    "Depression Rate":3.2132857,
+    "Anxiety Rate":4.195216,
+    "Bipolar Rate":0.8727019,
+    "ED Rate":0.23688456
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "FIELD1":1289,
+    "Unnamed: 0":1349,
+    "Entity":"Croatia",
+    "Year":2019,
+    "Schizophrenia Rate":0.29412583,
+    "Depression Rate":3.0076077,
+    "Anxiety Rate":3.5950115,
+    "Bipolar Rate":0.5449874,
+    "ED Rate":0.169517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.781167,21.521757 ]
+    },
+    "properties": {
+    "FIELD1":1319,
+    "Unnamed: 0":1379,
+    "Entity":"Cuba",
+    "Year":2019,
+    "Schizophrenia Rate":0.2805326,
+    "Depression Rate":3.802294,
+    "Anxiety Rate":4.2468786,
+    "Bipolar Rate":0.9477054,
+    "ED Rate":0.19164725
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "FIELD1":1349,
+    "Unnamed: 0":1409,
+    "Entity":"Cyprus",
+    "Year":2019,
+    "Schizophrenia Rate":0.27398312,
+    "Depression Rate":3.1127021,
+    "Anxiety Rate":6.4671764,
+    "Bipolar Rate":0.9104203,
+    "ED Rate":0.40809122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501785,56.26392 ]
+    },
+    "properties": {
+    "FIELD1":1379,
+    "Unnamed: 0":1499,
+    "Entity":"Denmark",
+    "Year":2019,
+    "Schizophrenia Rate":0.2413819,
+    "Depression Rate":3.4828994,
+    "Anxiety Rate":4.873904,
+    "Bipolar Rate":0.94029397,
+    "ED Rate":0.47125348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.590275,11.825138 ]
+    },
+    "properties": {
+    "FIELD1":1409,
+    "Unnamed: 0":1529,
+    "Entity":"Djibouti",
+    "Year":2019,
+    "Schizophrenia Rate":0.22082785,
+    "Depression Rate":4.4612656,
+    "Anxiety Rate":3.25465,
+    "Bipolar Rate":0.60729665,
+    "ED Rate":0.11031635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.370976,15.414999 ]
+    },
+    "properties": {
+    "FIELD1":1439,
+    "Unnamed: 0":1559,
+    "Entity":"Dominica",
+    "Year":2019,
+    "Schizophrenia Rate":0.27476716,
+    "Depression Rate":3.0847688,
+    "Anxiety Rate":4.2796836,
+    "Bipolar Rate":0.9012004,
+    "ED Rate":0.2061602
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735693 ]
+    },
+    "properties": {
+    "FIELD1":1469,
+    "Unnamed: 0":1589,
+    "Entity":"Dominican Republic",
+    "Year":2019,
+    "Schizophrenia Rate":0.27786973,
+    "Depression Rate":3.8231027,
+    "Anxiety Rate":4.50035,
+    "Bipolar Rate":0.910109,
+    "ED Rate":0.22997883
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "FIELD1":1499,
+    "Unnamed: 0":1649,
+    "Entity":"Ecuador",
+    "Year":2019,
+    "Schizophrenia Rate":0.27563453,
+    "Depression Rate":3.3306973,
+    "Anxiety Rate":5.2311482,
+    "Bipolar Rate":0.90765,
+    "ED Rate":0.2837155
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802498,26.820553 ]
+    },
+    "properties": {
+    "FIELD1":1529,
+    "Unnamed: 0":1679,
+    "Entity":"Egypt",
+    "Year":2019,
+    "Schizophrenia Rate":0.2475693,
+    "Depression Rate":3.9397578,
+    "Anxiety Rate":4.5883927,
+    "Bipolar Rate":0.72391546,
+    "ED Rate":0.19892646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "FIELD1":1559,
+    "Unnamed: 0":1709,
+    "Entity":"El Salvador",
+    "Year":2019,
+    "Schizophrenia Rate":0.26860753,
+    "Depression Rate":3.4073691,
+    "Anxiety Rate":4.4097867,
+    "Bipolar Rate":0.8259098,
+    "ED Rate":0.19801193
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.267895,1.650801 ]
+    },
+    "properties": {
+    "FIELD1":1589,
+    "Unnamed: 0":1739,
+    "Entity":"Equatorial Guinea",
+    "Year":2019,
+    "Schizophrenia Rate":0.23602559,
+    "Depression Rate":5.728945,
+    "Anxiety Rate":3.80493,
+    "Bipolar Rate":0.55335176,
+    "ED Rate":0.21130088
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.782334,15.179384 ]
+    },
+    "properties": {
+    "FIELD1":1619,
+    "Unnamed: 0":1769,
+    "Entity":"Eritrea",
+    "Year":2019,
+    "Schizophrenia Rate":0.20744848,
+    "Depression Rate":4.841218,
+    "Anxiety Rate":3.7323155,
+    "Bipolar Rate":0.584047,
+    "ED Rate":0.087786816
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.013607,58.595272 ]
+    },
+    "properties": {
+    "FIELD1":1649,
+    "Unnamed: 0":1799,
+    "Entity":"Estonia",
+    "Year":2019,
+    "Schizophrenia Rate":0.29009965,
+    "Depression Rate":3.6936426,
+    "Anxiety Rate":3.3788164,
+    "Bipolar Rate":0.5227906,
+    "ED Rate":0.1751613
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.489673,9.145 ]
+    },
+    "properties": {
+    "FIELD1":1679,
+    "Unnamed: 0":1859,
+    "Entity":"Ethiopia",
+    "Year":2019,
+    "Schizophrenia Rate":0.21338312,
+    "Depression Rate":4.64972,
+    "Anxiety Rate":3.4656384,
+    "Bipolar Rate":0.6143768,
+    "ED Rate":0.086156204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.414413,-16.578193 ]
+    },
+    "properties": {
+    "FIELD1":1709,
+    "Unnamed: 0":1889,
+    "Entity":"Fiji",
+    "Year":2019,
+    "Schizophrenia Rate":0.2926791,
+    "Depression Rate":2.917755,
+    "Anxiety Rate":4.039825,
+    "Bipolar Rate":0.274635,
+    "ED Rate":0.105710186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.748151,61.92411 ]
+    },
+    "properties": {
+    "FIELD1":1739,
+    "Unnamed: 0":1919,
+    "Entity":"Finland",
+    "Year":2019,
+    "Schizophrenia Rate":0.264076,
+    "Depression Rate":4.139295,
+    "Anxiety Rate":3.9931211,
+    "Bipolar Rate":0.8902839,
+    "ED Rate":0.48180753
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213749,46.227638 ]
+    },
+    "properties": {
+    "FIELD1":1769,
+    "Unnamed: 0":1949,
+    "Entity":"France",
+    "Year":2019,
+    "Schizophrenia Rate":0.26827893,
+    "Depression Rate":3.835741,
+    "Anxiety Rate":6.2742558,
+    "Bipolar Rate":0.90416586,
+    "ED Rate":0.46825343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "FIELD1":1799,
+    "Unnamed: 0":1979,
+    "Entity":"Gabon",
+    "Year":2019,
+    "Schizophrenia Rate":0.22967814,
+    "Depression Rate":5.5459714,
+    "Anxiety Rate":3.9851205,
+    "Bipolar Rate":0.5622134,
+    "ED Rate":0.18273167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.310139,13.443182 ]
+    },
+    "properties": {
+    "FIELD1":1829,
+    "Unnamed: 0":2009,
+    "Entity":"Gambia",
+    "Year":2019,
+    "Schizophrenia Rate":0.21232498,
+    "Depression Rate":5.5018787,
+    "Anxiety Rate":3.3126862,
+    "Bipolar Rate":0.54847974,
+    "ED Rate":0.09281238
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356892,42.315407 ]
+    },
+    "properties": {
+    "FIELD1":1859,
+    "Unnamed: 0":2039,
+    "Entity":"Georgia",
+    "Year":2019,
+    "Schizophrenia Rate":0.27726552,
+    "Depression Rate":3.3233132,
+    "Anxiety Rate":2.4950473,
+    "Bipolar Rate":0.5246634,
+    "ED Rate":0.12736228
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":1889,
+    "Unnamed: 0":2069,
+    "Entity":"Germany",
+    "Year":2019,
+    "Schizophrenia Rate":0.26269624,
+    "Depression Rate":3.3767943,
+    "Anxiety Rate":6.208145,
+    "Bipolar Rate":0.7469019,
+    "ED Rate":0.42561316
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.023194,7.946527 ]
+    },
+    "properties": {
+    "FIELD1":1919,
+    "Unnamed: 0":2099,
+    "Entity":"Ghana",
+    "Year":2019,
+    "Schizophrenia Rate":0.21691793,
+    "Depression Rate":4.3620286,
+    "Anxiety Rate":3.0005414,
+    "Bipolar Rate":0.54393464,
+    "ED Rate":0.117816195
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.824312,39.074208 ]
+    },
+    "properties": {
+    "FIELD1":1949,
+    "Unnamed: 0":2129,
+    "Entity":"Greece",
+    "Year":2019,
+    "Schizophrenia Rate":0.27222666,
+    "Depression Rate":5.0422506,
+    "Anxiety Rate":5.7790413,
+    "Bipolar Rate":0.90686923,
+    "ED Rate":0.42984423
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.604303,71.706936 ]
+    },
+    "properties": {
+    "FIELD1":1979,
+    "Unnamed: 0":2159,
+    "Entity":"Greenland",
+    "Year":2019,
+    "Schizophrenia Rate":0.3757375,
+    "Depression Rate":5.835712,
+    "Anxiety Rate":4.8561225,
+    "Bipolar Rate":0.65031314,
+    "ED Rate":0.5001417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.604171,12.262776 ]
+    },
+    "properties": {
+    "FIELD1":2009,
+    "Unnamed: 0":2189,
+    "Entity":"Grenada",
+    "Year":2019,
+    "Schizophrenia Rate":0.27920952,
+    "Depression Rate":3.23476,
+    "Anxiety Rate":4.2821164,
+    "Bipolar Rate":0.9181254,
+    "ED Rate":0.22329906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.793731,13.444304 ]
+    },
+    "properties": {
+    "FIELD1":2039,
+    "Unnamed: 0":2219,
+    "Entity":"Guam",
+    "Year":2019,
+    "Schizophrenia Rate":0.32720676,
+    "Depression Rate":3.1972318,
+    "Anxiety Rate":4.013985,
+    "Bipolar Rate":0.28497666,
+    "ED Rate":0.1828871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.230759,15.783471 ]
+    },
+    "properties": {
+    "FIELD1":2069,
+    "Unnamed: 0":2249,
+    "Entity":"Guatemala",
+    "Year":2019,
+    "Schizophrenia Rate":0.26276714,
+    "Depression Rate":3.6679313,
+    "Anxiety Rate":4.263226,
+    "Bipolar Rate":0.80035627,
+    "ED Rate":0.18659185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.696645,9.945587 ]
+    },
+    "properties": {
+    "FIELD1":2099,
+    "Unnamed: 0":2279,
+    "Entity":"Guinea",
+    "Year":2019,
+    "Schizophrenia Rate":0.20905477,
+    "Depression Rate":4.3731165,
+    "Anxiety Rate":3.3388844,
+    "Bipolar Rate":0.53725857,
+    "ED Rate":0.09339962
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.180413,11.803749 ]
+    },
+    "properties": {
+    "FIELD1":2129,
+    "Unnamed: 0":2309,
+    "Entity":"Guinea-Bissau",
+    "Year":2019,
+    "Schizophrenia Rate":0.20376217,
+    "Depression Rate":4.4942803,
+    "Anxiety Rate":3.0934513,
+    "Bipolar Rate":0.52663183,
+    "ED Rate":0.08834084
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.93018,4.860416 ]
+    },
+    "properties": {
+    "FIELD1":2159,
+    "Unnamed: 0":2339,
+    "Entity":"Guyana",
+    "Year":2019,
+    "Schizophrenia Rate":0.26300907,
+    "Depression Rate":4.927692,
+    "Anxiety Rate":4.3815017,
+    "Bipolar Rate":0.8697546,
+    "ED Rate":0.18756385
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.285215,18.971187 ]
+    },
+    "properties": {
+    "FIELD1":2189,
+    "Unnamed: 0":2369,
+    "Entity":"Haiti",
+    "Year":2019,
+    "Schizophrenia Rate":0.2413061,
+    "Depression Rate":3.6351175,
+    "Anxiety Rate":4.635318,
+    "Bipolar Rate":0.8438882,
+    "ED Rate":0.122097835
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "FIELD1":2219,
+    "Unnamed: 0":2399,
+    "Entity":"Honduras",
+    "Year":2019,
+    "Schizophrenia Rate":0.2616812,
+    "Depression Rate":3.1551142,
+    "Anxiety Rate":4.090965,
+    "Bipolar Rate":0.81202614,
+    "ED Rate":0.167219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.503304,47.162494 ]
+    },
+    "properties": {
+    "FIELD1":2249,
+    "Unnamed: 0":2429,
+    "Entity":"Hungary",
+    "Year":2019,
+    "Schizophrenia Rate":0.2914906,
+    "Depression Rate":2.8233702,
+    "Anxiety Rate":3.4067228,
+    "Bipolar Rate":0.5375118,
+    "ED Rate":0.1835278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.963051 ]
+    },
+    "properties": {
+    "FIELD1":2279,
+    "Unnamed: 0":2459,
+    "Entity":"Iceland",
+    "Year":2019,
+    "Schizophrenia Rate":0.27835035,
+    "Depression Rate":2.9365938,
+    "Anxiety Rate":5.1037683,
+    "Bipolar Rate":0.9084446,
+    "ED Rate":0.4541073
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.96288,20.593684 ]
+    },
+    "properties": {
+    "FIELD1":2309,
+    "Unnamed: 0":2489,
+    "Entity":"India",
+    "Year":2019,
+    "Schizophrenia Rate":0.28522602,
+    "Depression Rate":3.6598387,
+    "Anxiety Rate":2.9674358,
+    "Bipolar Rate":0.3541412,
+    "ED Rate":0.12927622
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.921327,-0.789275 ]
+    },
+    "properties": {
+    "FIELD1":2339,
+    "Unnamed: 0":2519,
+    "Entity":"Indonesia",
+    "Year":2019,
+    "Schizophrenia Rate":0.29368687,
+    "Depression Rate":2.4184713,
+    "Anxiety Rate":3.5480037,
+    "Bipolar Rate":0.33060965,
+    "ED Rate":0.11084955
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.688046,32.427908 ]
+    },
+    "properties": {
+    "FIELD1":2369,
+    "Unnamed: 0":2549,
+    "Entity":"Iran",
+    "Year":2019,
+    "Schizophrenia Rate":0.2541629,
+    "Depression Rate":4.860692,
+    "Anxiety Rate":7.26808,
+    "Bipolar Rate":0.81717443,
+    "ED Rate":0.2540833
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.679291,33.223191 ]
+    },
+    "properties": {
+    "FIELD1":2399,
+    "Unnamed: 0":2579,
+    "Entity":"Iraq",
+    "Year":2019,
+    "Schizophrenia Rate":0.24618399,
+    "Depression Rate":3.9326482,
+    "Anxiety Rate":5.33799,
+    "Bipolar Rate":0.6765268,
+    "ED Rate":0.20871635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.24389,53.41291 ]
+    },
+    "properties": {
+    "FIELD1":2429,
+    "Unnamed: 0":2609,
+    "Entity":"Ireland",
+    "Year":2019,
+    "Schizophrenia Rate":0.35267243,
+    "Depression Rate":4.2169313,
+    "Anxiety Rate":6.9078193,
+    "Bipolar Rate":0.701279,
+    "ED Rate":0.45577714
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.851612,31.046051 ]
+    },
+    "properties": {
+    "FIELD1":2459,
+    "Unnamed: 0":2639,
+    "Entity":"Israel",
+    "Year":2019,
+    "Schizophrenia Rate":0.29913944,
+    "Depression Rate":4.127255,
+    "Anxiety Rate":3.7392616,
+    "Bipolar Rate":1.0514655,
+    "ED Rate":0.38732913
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.56738,41.87194 ]
+    },
+    "properties": {
+    "FIELD1":2489,
+    "Unnamed: 0":2669,
+    "Entity":"Italy",
+    "Year":2019,
+    "Schizophrenia Rate":0.29120925,
+    "Depression Rate":3.561658,
+    "Anxiety Rate":5.5624604,
+    "Bipolar Rate":0.89349115,
+    "ED Rate":0.54448926
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "FIELD1":2519,
+    "Unnamed: 0":2699,
+    "Entity":"Jamaica",
+    "Year":2019,
+    "Schizophrenia Rate":0.27614054,
+    "Depression Rate":3.0646706,
+    "Anxiety Rate":4.0547247,
+    "Bipolar Rate":0.9436392,
+    "ED Rate":0.19291341
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.252924,36.204824 ]
+    },
+    "properties": {
+    "FIELD1":2549,
+    "Unnamed: 0":2729,
+    "Entity":"Japan",
+    "Year":2019,
+    "Schizophrenia Rate":0.30083296,
+    "Depression Rate":2.1032803,
+    "Anxiety Rate":2.3241255,
+    "Bipolar Rate":0.6442883,
+    "ED Rate":0.38879964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164 ]
+    },
+    "properties": {
+    "FIELD1":2579,
+    "Unnamed: 0":2759,
+    "Entity":"Jordan",
+    "Year":2019,
+    "Schizophrenia Rate":0.2550567,
+    "Depression Rate":4.15211,
+    "Anxiety Rate":4.933855,
+    "Bipolar Rate":0.7818655,
+    "ED Rate":0.19342121
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "FIELD1":2609,
+    "Unnamed: 0":2789,
+    "Entity":"Kazakhstan",
+    "Year":2019,
+    "Schizophrenia Rate":0.282443,
+    "Depression Rate":3.4412057,
+    "Anxiety Rate":2.1156304,
+    "Bipolar Rate":0.50741726,
+    "ED Rate":0.16284963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "FIELD1":2639,
+    "Unnamed: 0":2819,
+    "Entity":"Kenya",
+    "Year":2019,
+    "Schizophrenia Rate":0.21664362,
+    "Depression Rate":4.723163,
+    "Anxiety Rate":3.41804,
+    "Bipolar Rate":0.60172975,
+    "ED Rate":0.106974006
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.734039,-3.370417 ]
+    },
+    "properties": {
+    "FIELD1":2669,
+    "Unnamed: 0":2849,
+    "Entity":"Kiribati",
+    "Year":2019,
+    "Schizophrenia Rate":0.2558946,
+    "Depression Rate":2.9703078,
+    "Anxiety Rate":4.098131,
+    "Bipolar Rate":0.2571488,
+    "ED Rate":0.06961527
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.481766,29.31166 ]
+    },
+    "properties": {
+    "FIELD1":2699,
+    "Unnamed: 0":2879,
+    "Entity":"Kuwait",
+    "Year":2019,
+    "Schizophrenia Rate":0.27380788,
+    "Depression Rate":4.0603004,
+    "Anxiety Rate":4.599968,
+    "Bipolar Rate":0.81019646,
+    "ED Rate":0.34584403
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.766098,41.20438 ]
+    },
+    "properties": {
+    "FIELD1":2729,
+    "Unnamed: 0":2909,
+    "Entity":"Kyrgyzstan",
+    "Year":2019,
+    "Schizophrenia Rate":0.2620818,
+    "Depression Rate":3.3816984,
+    "Anxiety Rate":2.0599196,
+    "Bipolar Rate":0.51576376,
+    "ED Rate":0.09326466
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.495496,19.85627 ]
+    },
+    "properties": {
+    "FIELD1":2759,
+    "Unnamed: 0":2939,
+    "Entity":"Laos",
+    "Year":2019,
+    "Schizophrenia Rate":0.28031668,
+    "Depression Rate":2.7468913,
+    "Anxiety Rate":4.5706754,
+    "Bipolar Rate":0.32474777,
+    "ED Rate":0.09885296
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.603189,56.879635 ]
+    },
+    "properties": {
+    "FIELD1":2789,
+    "Unnamed: 0":2969,
+    "Entity":"Latvia",
+    "Year":2019,
+    "Schizophrenia Rate":0.28601405,
+    "Depression Rate":3.7478287,
+    "Anxiety Rate":3.748034,
+    "Bipolar Rate":0.5201065,
+    "ED Rate":0.1660531
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.862285,33.854721 ]
+    },
+    "properties": {
+    "FIELD1":2819,
+    "Unnamed: 0":2999,
+    "Entity":"Lebanon",
+    "Year":2019,
+    "Schizophrenia Rate":0.25352445,
+    "Depression Rate":4.652712,
+    "Anxiety Rate":6.0510345,
+    "Bipolar Rate":0.94117516,
+    "ED Rate":0.224312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.233608,-29.609988 ]
+    },
+    "properties": {
+    "FIELD1":2849,
+    "Unnamed: 0":3029,
+    "Entity":"Lesotho",
+    "Year":2019,
+    "Schizophrenia Rate":0.2047265,
+    "Depression Rate":5.511564,
+    "Anxiety Rate":3.5554914,
+    "Bipolar Rate":0.5321807,
+    "ED Rate":0.10791386
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.429499,6.428055 ]
+    },
+    "properties": {
+    "FIELD1":2879,
+    "Unnamed: 0":3059,
+    "Entity":"Liberia",
+    "Year":2019,
+    "Schizophrenia Rate":0.20702705,
+    "Depression Rate":4.556289,
+    "Anxiety Rate":3.5066519,
+    "Bipolar Rate":0.54334027,
+    "ED Rate":0.076098874
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.228331,26.3351 ]
+    },
+    "properties": {
+    "FIELD1":2909,
+    "Unnamed: 0":3089,
+    "Entity":"Libya",
+    "Year":2019,
+    "Schizophrenia Rate":0.24989693,
+    "Depression Rate":4.406427,
+    "Anxiety Rate":5.324334,
+    "Bipolar Rate":0.77044964,
+    "ED Rate":0.20108777
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "FIELD1":2939,
+    "Unnamed: 0":3119,
+    "Entity":"Lithuania",
+    "Year":2019,
+    "Schizophrenia Rate":0.2884198,
+    "Depression Rate":3.9911947,
+    "Anxiety Rate":4.2541876,
+    "Bipolar Rate":0.5211538,
+    "ED Rate":0.17335068
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129583,49.815273 ]
+    },
+    "properties": {
+    "FIELD1":2969,
+    "Unnamed: 0":3149,
+    "Entity":"Luxembourg",
+    "Year":2019,
+    "Schizophrenia Rate":0.2819182,
+    "Depression Rate":3.2193074,
+    "Anxiety Rate":5.2770224,
+    "Bipolar Rate":0.896122,
+    "ED Rate":0.5688226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947 ]
+    },
+    "properties": {
+    "FIELD1":2999,
+    "Unnamed: 0":3179,
+    "Entity":"Madagascar",
+    "Year":2019,
+    "Schizophrenia Rate":0.21233796,
+    "Depression Rate":4.737187,
+    "Anxiety Rate":3.9632103,
+    "Bipolar Rate":0.59737605,
+    "ED Rate":0.086541794
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254308 ]
+    },
+    "properties": {
+    "FIELD1":3029,
+    "Unnamed: 0":3209,
+    "Entity":"Malawi",
+    "Year":2019,
+    "Schizophrenia Rate":0.20184024,
+    "Depression Rate":4.100136,
+    "Anxiety Rate":3.8456526,
+    "Bipolar Rate":0.5773636,
+    "ED Rate":0.0793044
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.975766,4.210484 ]
+    },
+    "properties": {
+    "FIELD1":3059,
+    "Unnamed: 0":3239,
+    "Entity":"Malaysia",
+    "Year":2019,
+    "Schizophrenia Rate":0.316804,
+    "Depression Rate":3.6630948,
+    "Anxiety Rate":4.5992527,
+    "Bipolar Rate":0.33939177,
+    "ED Rate":0.15047508
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.22068,3.202778 ]
+    },
+    "properties": {
+    "FIELD1":3089,
+    "Unnamed: 0":3269,
+    "Entity":"Maldives",
+    "Year":2019,
+    "Schizophrenia Rate":0.31349456,
+    "Depression Rate":2.9122725,
+    "Anxiety Rate":3.5796337,
+    "Bipolar Rate":0.33861485,
+    "ED Rate":0.1219199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.996166,17.570692 ]
+    },
+    "properties": {
+    "FIELD1":3119,
+    "Unnamed: 0":3299,
+    "Entity":"Mali",
+    "Year":2019,
+    "Schizophrenia Rate":0.21123697,
+    "Depression Rate":3.5413845,
+    "Anxiety Rate":2.7260087,
+    "Bipolar Rate":0.5419619,
+    "ED Rate":0.092865065
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "FIELD1":3149,
+    "Unnamed: 0":3329,
+    "Entity":"Malta",
+    "Year":2019,
+    "Schizophrenia Rate":0.27710927,
+    "Depression Rate":3.1311812,
+    "Anxiety Rate":6.2475963,
+    "Bipolar Rate":0.9121692,
+    "ED Rate":0.42228425
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.184478,7.131474 ]
+    },
+    "properties": {
+    "FIELD1":3179,
+    "Unnamed: 0":3359,
+    "Entity":"Marshall Islands",
+    "Year":2019,
+    "Schizophrenia Rate":0.27260956,
+    "Depression Rate":2.8873966,
+    "Anxiety Rate":4.0164247,
+    "Bipolar Rate":0.26586974,
+    "ED Rate":0.08263287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.940835,21.00789 ]
+    },
+    "properties": {
+    "FIELD1":3209,
+    "Unnamed: 0":3389,
+    "Entity":"Mauritania",
+    "Year":2019,
+    "Schizophrenia Rate":0.22032183,
+    "Depression Rate":3.6558447,
+    "Anxiety Rate":2.7462342,
+    "Bipolar Rate":0.5560791,
+    "ED Rate":0.1137088
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404 ]
+    },
+    "properties": {
+    "FIELD1":3239,
+    "Unnamed: 0":3419,
+    "Entity":"Mauritius",
+    "Year":2019,
+    "Schizophrenia Rate":0.3104569,
+    "Depression Rate":3.8047628,
+    "Anxiety Rate":3.8150282,
+    "Bipolar Rate":0.33751646,
+    "ED Rate":0.13929899
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "FIELD1":3269,
+    "Unnamed: 0":3449,
+    "Entity":"Mexico",
+    "Year":2019,
+    "Schizophrenia Rate":0.28389058,
+    "Depression Rate":3.5358298,
+    "Anxiety Rate":3.5132816,
+    "Bipolar Rate":0.9148764,
+    "ED Rate":0.24183847
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.369885,47.411631 ]
+    },
+    "properties": {
+    "FIELD1":3299,
+    "Unnamed: 0":3509,
+    "Entity":"Moldova",
+    "Year":2019,
+    "Schizophrenia Rate":0.26885495,
+    "Depression Rate":3.22074,
+    "Anxiety Rate":4.078755,
+    "Bipolar Rate":0.5182467,
+    "ED Rate":0.10844338
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.412841,43.750298 ]
+    },
+    "properties": {
+    "FIELD1":3329,
+    "Unnamed: 0":3539,
+    "Entity":"Monaco",
+    "Year":2019,
+    "Schizophrenia Rate":0.29540223,
+    "Depression Rate":4.0564504,
+    "Anxiety Rate":5.501611,
+    "Bipolar Rate":0.90075177,
+    "ED Rate":0.8699128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846656,46.862496 ]
+    },
+    "properties": {
+    "FIELD1":3359,
+    "Unnamed: 0":3569,
+    "Entity":"Mongolia",
+    "Year":2019,
+    "Schizophrenia Rate":0.27248925,
+    "Depression Rate":3.9632094,
+    "Anxiety Rate":2.1429229,
+    "Bipolar Rate":0.49995935,
+    "ED Rate":0.13303629
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678 ]
+    },
+    "properties": {
+    "FIELD1":3389,
+    "Unnamed: 0":3599,
+    "Entity":"Montenegro",
+    "Year":2019,
+    "Schizophrenia Rate":0.2888891,
+    "Depression Rate":2.8178656,
+    "Anxiety Rate":3.6586478,
+    "Bipolar Rate":0.54094183,
+    "ED Rate":0.15447724
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "FIELD1":3419,
+    "Unnamed: 0":3629,
+    "Entity":"Morocco",
+    "Year":2019,
+    "Schizophrenia Rate":0.24282132,
+    "Depression Rate":5.07854,
+    "Anxiety Rate":4.7997293,
+    "Bipolar Rate":0.745084,
+    "ED Rate":0.18633235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.529562,-18.665695 ]
+    },
+    "properties": {
+    "FIELD1":3449,
+    "Unnamed: 0":3659,
+    "Entity":"Mozambique",
+    "Year":2019,
+    "Schizophrenia Rate":0.20393638,
+    "Depression Rate":4.992671,
+    "Anxiety Rate":4.035234,
+    "Bipolar Rate":0.5785625,
+    "ED Rate":0.0839527
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "FIELD1":3479,
+    "Unnamed: 0":3719,
+    "Entity":"Namibia",
+    "Year":2019,
+    "Schizophrenia Rate":0.22256449,
+    "Depression Rate":3.6164615,
+    "Anxiety Rate":3.49189,
+    "Bipolar Rate":0.5531963,
+    "ED Rate":0.16063276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.931503,-0.522778 ]
+    },
+    "properties": {
+    "FIELD1":3509,
+    "Unnamed: 0":3749,
+    "Entity":"Nauru",
+    "Year":2019,
+    "Schizophrenia Rate":0.28296125,
+    "Depression Rate":3.1496468,
+    "Anxiety Rate":4.0565453,
+    "Bipolar Rate":0.2611896,
+    "ED Rate":0.112175204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124008,28.394857 ]
+    },
+    "properties": {
+    "FIELD1":3539,
+    "Unnamed: 0":3779,
+    "Entity":"Nepal",
+    "Year":2019,
+    "Schizophrenia Rate":0.26699284,
+    "Depression Rate":4.8975983,
+    "Anxiety Rate":3.2773163,
+    "Bipolar Rate":0.38390607,
+    "ED Rate":0.10316985
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "FIELD1":3569,
+    "Unnamed: 0":3809,
+    "Entity":"Netherlands",
+    "Year":2019,
+    "Schizophrenia Rate":0.36796945,
+    "Depression Rate":3.5344012,
+    "Anxiety Rate":6.7548013,
+    "Bipolar Rate":0.78764594,
+    "ED Rate":0.38367063
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.885971,-40.900557 ]
+    },
+    "properties": {
+    "FIELD1":3599,
+    "Unnamed: 0":3839,
+    "Entity":"New Zealand",
+    "Year":2019,
+    "Schizophrenia Rate":0.3886144,
+    "Depression Rate":3.7238638,
+    "Anxiety Rate":7.263469,
+    "Bipolar Rate":1.5064018,
+    "ED Rate":0.6033723
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "FIELD1":3629,
+    "Unnamed: 0":3869,
+    "Entity":"Nicaragua",
+    "Year":2019,
+    "Schizophrenia Rate":0.27072757,
+    "Depression Rate":3.2548654,
+    "Anxiety Rate":4.3657975,
+    "Bipolar Rate":0.8515433,
+    "ED Rate":0.16589764
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081666,17.607789 ]
+    },
+    "properties": {
+    "FIELD1":3659,
+    "Unnamed: 0":3899,
+    "Entity":"Niger",
+    "Year":2019,
+    "Schizophrenia Rate":0.20768712,
+    "Depression Rate":4.235215,
+    "Anxiety Rate":2.9678462,
+    "Bipolar Rate":0.54284483,
+    "ED Rate":0.078765206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277,9.081999 ]
+    },
+    "properties": {
+    "FIELD1":3689,
+    "Unnamed: 0":3929,
+    "Entity":"Nigeria",
+    "Year":2019,
+    "Schizophrenia Rate":0.22260755,
+    "Depression Rate":3.8173978,
+    "Anxiety Rate":2.9917774,
+    "Bipolar Rate":0.5542446,
+    "ED Rate":0.12942946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.867233,-19.054445 ]
+    },
+    "properties": {
+    "FIELD1":3719,
+    "Unnamed: 0":3959,
+    "Entity":"Niue",
+    "Year":2019,
+    "Schizophrenia Rate":0.29637173,
+    "Depression Rate":3.1407,
+    "Anxiety Rate":4.0224557,
+    "Bipolar Rate":0.275173,
+    "ED Rate":0.118197
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.510093,40.339852 ]
+    },
+    "properties": {
+    "FIELD1":3749,
+    "Unnamed: 0":3989,
+    "Entity":"North Korea",
+    "Year":2019,
+    "Schizophrenia Rate":0.26126185,
+    "Depression Rate":2.6769247,
+    "Anxiety Rate":3.61212,
+    "Bipolar Rate":0.18194291,
+    "ED Rate":0.06607657
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.38469,17.33083 ]
+    },
+    "properties": {
+    "FIELD1":3779,
+    "Unnamed: 0":4049,
+    "Entity":"Northern Mariana Islands",
+    "Year":2019,
+    "Schizophrenia Rate":0.31241596,
+    "Depression Rate":2.780081,
+    "Anxiety Rate":4.0044084,
+    "Bipolar Rate":0.28020623,
+    "ED Rate":0.15098754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.468946,60.472024 ]
+    },
+    "properties": {
+    "FIELD1":3809,
+    "Unnamed: 0":4079,
+    "Entity":"Norway",
+    "Year":2019,
+    "Schizophrenia Rate":0.28272113,
+    "Depression Rate":3.2382026,
+    "Anxiety Rate":6.7358413,
+    "Bipolar Rate":0.8286233,
+    "ED Rate":0.47473136
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.923255,21.512583 ]
+    },
+    "properties": {
+    "FIELD1":3839,
+    "Unnamed: 0":4109,
+    "Entity":"Oman",
+    "Year":2019,
+    "Schizophrenia Rate":0.2642391,
+    "Depression Rate":3.962998,
+    "Anxiety Rate":4.61154,
+    "Bipolar Rate":0.68607295,
+    "ED Rate":0.26507118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.345116,30.375321 ]
+    },
+    "properties": {
+    "FIELD1":3869,
+    "Unnamed: 0":4139,
+    "Entity":"Pakistan",
+    "Year":2019,
+    "Schizophrenia Rate":0.27888608,
+    "Depression Rate":3.9425256,
+    "Anxiety Rate":3.474194,
+    "Bipolar Rate":0.38789725,
+    "ED Rate":0.12147353
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.58252,7.51498 ]
+    },
+    "properties": {
+    "FIELD1":3899,
+    "Unnamed: 0":4169,
+    "Entity":"Palau",
+    "Year":2019,
+    "Schizophrenia Rate":0.29782072,
+    "Depression Rate":3.089023,
+    "Anxiety Rate":3.9466903,
+    "Bipolar Rate":0.2698488,
+    "ED Rate":0.11985811
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "FIELD1":3929,
+    "Unnamed: 0":4229,
+    "Entity":"Panama",
+    "Year":2019,
+    "Schizophrenia Rate":0.28811285,
+    "Depression Rate":2.9369144,
+    "Anxiety Rate":3.6566825,
+    "Bipolar Rate":0.8495454,
+    "ED Rate":0.28251824
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95555,-6.314993 ]
+    },
+    "properties": {
+    "FIELD1":3959,
+    "Unnamed: 0":4259,
+    "Entity":"Papua New Guinea",
+    "Year":2019,
+    "Schizophrenia Rate":0.27093467,
+    "Depression Rate":3.072686,
+    "Anxiety Rate":3.995107,
+    "Bipolar Rate":0.263657,
+    "ED Rate":0.08146171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.443832,-23.442503 ]
+    },
+    "properties": {
+    "FIELD1":3989,
+    "Unnamed: 0":4289,
+    "Entity":"Paraguay",
+    "Year":2019,
+    "Schizophrenia Rate":0.2778201,
+    "Depression Rate":3.6945765,
+    "Anxiety Rate":6.304892,
+    "Bipolar Rate":1.0898001,
+    "ED Rate":0.21759573
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "FIELD1":4019,
+    "Unnamed: 0":4319,
+    "Entity":"Peru",
+    "Year":2019,
+    "Schizophrenia Rate":0.27953792,
+    "Depression Rate":2.2116694,
+    "Anxiety Rate":5.551791,
+    "Bipolar Rate":0.91938907,
+    "ED Rate":0.29595372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774017,12.879721 ]
+    },
+    "properties": {
+    "FIELD1":4049,
+    "Unnamed: 0":4349,
+    "Entity":"Philippines",
+    "Year":2019,
+    "Schizophrenia Rate":0.29213402,
+    "Depression Rate":2.779254,
+    "Anxiety Rate":4.563437,
+    "Bipolar Rate":0.3369464,
+    "ED Rate":0.10456553
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.145136,51.919438 ]
+    },
+    "properties": {
+    "FIELD1":4079,
+    "Unnamed: 0":4379,
+    "Entity":"Poland",
+    "Year":2019,
+    "Schizophrenia Rate":0.2945265,
+    "Depression Rate":2.2779574,
+    "Anxiety Rate":3.082497,
+    "Bipolar Rate":0.5506919,
+    "ED Rate":0.18609495
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.224454,39.399872 ]
+    },
+    "properties": {
+    "FIELD1":4109,
+    "Unnamed: 0":4409,
+    "Entity":"Portugal",
+    "Year":2019,
+    "Schizophrenia Rate":0.26907453,
+    "Depression Rate":4.3940663,
+    "Anxiety Rate":8.02761,
+    "Bipolar Rate":0.87302935,
+    "ED Rate":0.42184258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "FIELD1":4139,
+    "Unnamed: 0":4439,
+    "Entity":"Puerto Rico",
+    "Year":2019,
+    "Schizophrenia Rate":0.29279828,
+    "Depression Rate":2.8828056,
+    "Anxiety Rate":4.442561,
+    "Bipolar Rate":0.94706076,
+    "ED Rate":0.310856
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "FIELD1":4169,
+    "Unnamed: 0":4469,
+    "Entity":"Qatar",
+    "Year":2019,
+    "Schizophrenia Rate":0.28495243,
+    "Depression Rate":3.9513783,
+    "Anxiety Rate":4.26387,
+    "Bipolar Rate":0.7445955,
+    "ED Rate":0.3464426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.96676,45.943161 ]
+    },
+    "properties": {
+    "FIELD1":4199,
+    "Unnamed: 0":4499,
+    "Entity":"Romania",
+    "Year":2019,
+    "Schizophrenia Rate":0.28902072,
+    "Depression Rate":2.6501622,
+    "Anxiety Rate":3.2856169,
+    "Bipolar Rate":0.6372142,
+    "ED Rate":0.16204906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.318756,61.52401 ]
+    },
+    "properties": {
+    "FIELD1":4229,
+    "Unnamed: 0":4529,
+    "Entity":"Russia",
+    "Year":2019,
+    "Schizophrenia Rate":0.281813,
+    "Depression Rate":3.0799155,
+    "Anxiety Rate":3.1336958,
+    "Bipolar Rate":0.51406276,
+    "ED Rate":0.16156821
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.873888,-1.940278 ]
+    },
+    "properties": {
+    "FIELD1":4259,
+    "Unnamed: 0":4559,
+    "Entity":"Rwanda",
+    "Year":2019,
+    "Schizophrenia Rate":0.20999436,
+    "Depression Rate":5.0970206,
+    "Anxiety Rate":3.6533618,
+    "Bipolar Rate":0.58875066,
+    "ED Rate":0.09405708
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "FIELD1":4289,
+    "Unnamed: 0":4589,
+    "Entity":"Saint Kitts and Nevis",
+    "Year":2019,
+    "Schizophrenia Rate":0.28408948,
+    "Depression Rate":3.9269922,
+    "Anxiety Rate":4.308869,
+    "Bipolar Rate":0.90990686,
+    "ED Rate":0.28756824
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.978893,13.909444 ]
+    },
+    "properties": {
+    "FIELD1":4319,
+    "Unnamed: 0":4619,
+    "Entity":"Saint Lucia",
+    "Year":2019,
+    "Schizophrenia Rate":0.27692154,
+    "Depression Rate":3.3162744,
+    "Anxiety Rate":4.307126,
+    "Bipolar Rate":0.92425954,
+    "ED Rate":0.21924117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "FIELD1":4349,
+    "Unnamed: 0":4649,
+    "Entity":"Saint Vincent and the Grenadines",
+    "Year":2019,
+    "Schizophrenia Rate":0.2742307,
+    "Depression Rate":3.3676143,
+    "Anxiety Rate":4.2993255,
+    "Bipolar Rate":0.9090553,
+    "ED Rate":0.21304461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.104629,-13.759029 ]
+    },
+    "properties": {
+    "FIELD1":4379,
+    "Unnamed: 0":4679,
+    "Entity":"Samoa",
+    "Year":2019,
+    "Schizophrenia Rate":0.2866452,
+    "Depression Rate":2.8027563,
+    "Anxiety Rate":4.027854,
+    "Bipolar Rate":0.2748158,
+    "ED Rate":0.09448495
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.457777,43.94236 ]
+    },
+    "properties": {
+    "FIELD1":4409,
+    "Unnamed: 0":4709,
+    "Entity":"San Marino",
+    "Year":2019,
+    "Schizophrenia Rate":0.28010872,
+    "Depression Rate":4.0918827,
+    "Anxiety Rate":5.542622,
+    "Bipolar Rate":0.9189005,
+    "ED Rate":0.50515896
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.079162,23.885942 ]
+    },
+    "properties": {
+    "FIELD1":4439,
+    "Unnamed: 0":4769,
+    "Entity":"Saudi Arabia",
+    "Year":2019,
+    "Schizophrenia Rate":0.2628555,
+    "Depression Rate":4.216069,
+    "Anxiety Rate":4.5544286,
+    "Bipolar Rate":0.7622446,
+    "ED Rate":0.27899438
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452362,14.497401 ]
+    },
+    "properties": {
+    "FIELD1":4469,
+    "Unnamed: 0":4799,
+    "Entity":"Senegal",
+    "Year":2019,
+    "Schizophrenia Rate":0.21622801,
+    "Depression Rate":4.0294,
+    "Anxiety Rate":2.8934357,
+    "Bipolar Rate":0.55274326,
+    "ED Rate":0.10354699
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521 ]
+    },
+    "properties": {
+    "FIELD1":4499,
+    "Unnamed: 0":4829,
+    "Entity":"Serbia",
+    "Year":2019,
+    "Schizophrenia Rate":0.28505,
+    "Depression Rate":2.814907,
+    "Anxiety Rate":3.33539,
+    "Bipolar Rate":0.540287,
+    "ED Rate":0.14359924
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.491977,-4.679574 ]
+    },
+    "properties": {
+    "FIELD1":4529,
+    "Unnamed: 0":4859,
+    "Entity":"Seychelles",
+    "Year":2019,
+    "Schizophrenia Rate":0.31363437,
+    "Depression Rate":2.644615,
+    "Anxiety Rate":3.7375588,
+    "Bipolar Rate":0.3341308,
+    "ED Rate":0.1512988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.779889,8.460555 ]
+    },
+    "properties": {
+    "FIELD1":4559,
+    "Unnamed: 0":4889,
+    "Entity":"Sierra Leone",
+    "Year":2019,
+    "Schizophrenia Rate":0.20804136,
+    "Depression Rate":4.392157,
+    "Anxiety Rate":3.6633224,
+    "Bipolar Rate":0.53831226,
+    "ED Rate":0.08656057
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "FIELD1":4589,
+    "Unnamed: 0":4919,
+    "Entity":"Singapore",
+    "Year":2019,
+    "Schizophrenia Rate":0.3191951,
+    "Depression Rate":2.0081315,
+    "Anxiety Rate":2.7080863,
+    "Bipolar Rate":0.7197487,
+    "ED Rate":0.453674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699024,48.669026 ]
+    },
+    "properties": {
+    "FIELD1":4619,
+    "Unnamed: 0":4949,
+    "Entity":"Slovakia",
+    "Year":2019,
+    "Schizophrenia Rate":0.29567876,
+    "Depression Rate":2.695262,
+    "Anxiety Rate":3.4256656,
+    "Bipolar Rate":0.54230446,
+    "ED Rate":0.18270175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.995463,46.151241 ]
+    },
+    "properties": {
+    "FIELD1":4649,
+    "Unnamed: 0":4979,
+    "Entity":"Slovenia",
+    "Year":2019,
+    "Schizophrenia Rate":0.2995073,
+    "Depression Rate":3.1152232,
+    "Anxiety Rate":3.3891728,
+    "Bipolar Rate":0.5467665,
+    "ED Rate":0.1849328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.156194,-9.64571 ]
+    },
+    "properties": {
+    "FIELD1":4679,
+    "Unnamed: 0":5009,
+    "Entity":"Solomon Islands",
+    "Year":2019,
+    "Schizophrenia Rate":0.25524026,
+    "Depression Rate":3.0039446,
+    "Anxiety Rate":4.0285625,
+    "Bipolar Rate":0.2548458,
+    "ED Rate":0.0693035
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.199616,5.152149 ]
+    },
+    "properties": {
+    "FIELD1":4709,
+    "Unnamed: 0":5039,
+    "Entity":"Somalia",
+    "Year":2019,
+    "Schizophrenia Rate":0.18841599,
+    "Depression Rate":4.84665,
+    "Anxiety Rate":3.2728631,
+    "Bipolar Rate":0.5812081,
+    "ED Rate":0.045336246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "FIELD1":4739,
+    "Unnamed: 0":5069,
+    "Entity":"South Africa",
+    "Year":2019,
+    "Schizophrenia Rate":0.22481367,
+    "Depression Rate":4.298678,
+    "Anxiety Rate":3.786144,
+    "Bipolar Rate":0.5569932,
+    "ED Rate":0.16455814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.766922,35.907757 ]
+    },
+    "properties": {
+    "FIELD1":4769,
+    "Unnamed: 0":5099,
+    "Entity":"South Korea",
+    "Year":2019,
+    "Schizophrenia Rate":0.30063236,
+    "Depression Rate":2.091181,
+    "Anxiety Rate":3.2213244,
+    "Bipolar Rate":0.5002964,
+    "ED Rate":0.35135385
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74922,40.463667 ]
+    },
+    "properties": {
+    "FIELD1":4799,
+    "Unnamed: 0":5159,
+    "Entity":"Spain",
+    "Year":2019,
+    "Schizophrenia Rate":0.2656171,
+    "Depression Rate":4.704455,
+    "Anxiety Rate":4.8611727,
+    "Bipolar Rate":0.92482716,
+    "ED Rate":0.59025174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.771797,7.873054 ]
+    },
+    "properties": {
+    "FIELD1":4829,
+    "Unnamed: 0":5189,
+    "Entity":"Sri Lanka",
+    "Year":2019,
+    "Schizophrenia Rate":0.3008161,
+    "Depression Rate":2.8662298,
+    "Anxiety Rate":4.0355477,
+    "Bipolar Rate":0.33558726,
+    "ED Rate":0.120000996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.217636,12.862807 ]
+    },
+    "properties": {
+    "FIELD1":4859,
+    "Unnamed: 0":5219,
+    "Entity":"Sudan",
+    "Year":2019,
+    "Schizophrenia Rate":0.23268405,
+    "Depression Rate":4.4230967,
+    "Anxiety Rate":4.745971,
+    "Bipolar Rate":0.73181224,
+    "ED Rate":0.14551556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.027783,3.919305 ]
+    },
+    "properties": {
+    "FIELD1":4889,
+    "Unnamed: 0":5249,
+    "Entity":"Suriname",
+    "Year":2019,
+    "Schizophrenia Rate":0.2756343,
+    "Depression Rate":4.6881685,
+    "Anxiety Rate":4.141955,
+    "Bipolar Rate":0.8973406,
+    "ED Rate":0.22762749
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.643501,60.128161 ]
+    },
+    "properties": {
+    "FIELD1":4919,
+    "Unnamed: 0":5279,
+    "Entity":"Sweden",
+    "Year":2019,
+    "Schizophrenia Rate":0.27025598,
+    "Depression Rate":4.116486,
+    "Anxiety Rate":4.795127,
+    "Bipolar Rate":0.97393054,
+    "ED Rate":0.51417124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227512,46.818188 ]
+    },
+    "properties": {
+    "FIELD1":4949,
+    "Unnamed: 0":5309,
+    "Entity":"Switzerland",
+    "Year":2019,
+    "Schizophrenia Rate":0.2799828,
+    "Depression Rate":3.705447,
+    "Anxiety Rate":6.79061,
+    "Bipolar Rate":0.9417426,
+    "ED Rate":0.4910716
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815,34.802075 ]
+    },
+    "properties": {
+    "FIELD1":4979,
+    "Unnamed: 0":5339,
+    "Entity":"Syria",
+    "Year":2019,
+    "Schizophrenia Rate":0.24236715,
+    "Depression Rate":4.132855,
+    "Anxiety Rate":5.60757,
+    "Bipolar Rate":0.77377516,
+    "ED Rate":0.15828523
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.960515,23.69781 ]
+    },
+    "properties": {
+    "FIELD1":5009,
+    "Unnamed: 0":5369,
+    "Entity":"Taiwan",
+    "Year":2019,
+    "Schizophrenia Rate":0.31342354,
+    "Depression Rate":2.564065,
+    "Anxiety Rate":3.6654854,
+    "Bipolar Rate":0.19377136,
+    "ED Rate":0.173583
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.276093,38.861034 ]
+    },
+    "properties": {
+    "FIELD1":5039,
+    "Unnamed: 0":5399,
+    "Entity":"Tajikistan",
+    "Year":2019,
+    "Schizophrenia Rate":0.2636819,
+    "Depression Rate":2.8172803,
+    "Anxiety Rate":2.4035394,
+    "Bipolar Rate":0.51602787,
+    "ED Rate":0.08860962
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "FIELD1":5069,
+    "Unnamed: 0":5429,
+    "Entity":"Tanzania",
+    "Year":2019,
+    "Schizophrenia Rate":0.21327442,
+    "Depression Rate":4.651242,
+    "Anxiety Rate":3.8125863,
+    "Bipolar Rate":0.59105045,
+    "ED Rate":0.10528517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.992541,15.870032 ]
+    },
+    "properties": {
+    "FIELD1":5099,
+    "Unnamed: 0":5459,
+    "Entity":"Thailand",
+    "Year":2019,
+    "Schizophrenia Rate":0.30105522,
+    "Depression Rate":2.847038,
+    "Anxiety Rate":3.399738,
+    "Bipolar Rate":0.32977024,
+    "ED Rate":0.13236374
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.824782,8.619543 ]
+    },
+    "properties": {
+    "FIELD1":5129,
+    "Unnamed: 0":5489,
+    "Entity":"Togo",
+    "Year":2019,
+    "Schizophrenia Rate":0.2087059,
+    "Depression Rate":4.5008154,
+    "Anxiety Rate":3.592497,
+    "Bipolar Rate":0.5395201,
+    "ED Rate":0.08961096
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.855881,-8.967363 ]
+    },
+    "properties": {
+    "FIELD1":5159,
+    "Unnamed: 0":5519,
+    "Entity":"Tokelau",
+    "Year":2019,
+    "Schizophrenia Rate":0.28980696,
+    "Depression Rate":3.1222134,
+    "Anxiety Rate":4.0038543,
+    "Bipolar Rate":0.27477935,
+    "ED Rate":0.10262833
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.198242,-21.178986 ]
+    },
+    "properties": {
+    "FIELD1":5189,
+    "Unnamed: 0":5549,
+    "Entity":"Tonga",
+    "Year":2019,
+    "Schizophrenia Rate":0.29104534,
+    "Depression Rate":2.6947968,
+    "Anxiety Rate":4.062976,
+    "Bipolar Rate":0.28197634,
+    "ED Rate":0.09377603
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "FIELD1":5219,
+    "Unnamed: 0":5579,
+    "Entity":"Trinidad and Tobago",
+    "Year":2019,
+    "Schizophrenia Rate":0.28689462,
+    "Depression Rate":3.82637,
+    "Anxiety Rate":3.8713686,
+    "Bipolar Rate":0.9088345,
+    "ED Rate":0.28171644
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "FIELD1":5249,
+    "Unnamed: 0":5609,
+    "Entity":"Tunisia",
+    "Year":2019,
+    "Schizophrenia Rate":0.2524584,
+    "Depression Rate":5.049405,
+    "Anxiety Rate":5.164141,
+    "Bipolar Rate":0.787781,
+    "ED Rate":0.20487007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "FIELD1":5279,
+    "Unnamed: 0":5639,
+    "Entity":"Turkey",
+    "Year":2019,
+    "Schizophrenia Rate":0.24893442,
+    "Depression Rate":3.9422681,
+    "Anxiety Rate":4.513604,
+    "Bipolar Rate":0.795696,
+    "ED Rate":0.2917118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.556278,38.969719 ]
+    },
+    "properties": {
+    "FIELD1":5309,
+    "Unnamed: 0":5669,
+    "Entity":"Turkmenistan",
+    "Year":2019,
+    "Schizophrenia Rate":0.2810101,
+    "Depression Rate":3.0497415,
+    "Anxiety Rate":2.3415134,
+    "Bipolar Rate":0.5058993,
+    "ED Rate":0.15248261
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.64933,-7.109535 ]
+    },
+    "properties": {
+    "FIELD1":5339,
+    "Unnamed: 0":5699,
+    "Entity":"Tuvalu",
+    "Year":2019,
+    "Schizophrenia Rate":0.27550524,
+    "Depression Rate":3.1250875,
+    "Anxiety Rate":4.007321,
+    "Bipolar Rate":0.26749822,
+    "ED Rate":0.08227526
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.290275,1.373333 ]
+    },
+    "properties": {
+    "FIELD1":5369,
+    "Unnamed: 0":5729,
+    "Entity":"Uganda",
+    "Year":2019,
+    "Schizophrenia Rate":0.20794602,
+    "Depression Rate":6.5845194,
+    "Anxiety Rate":4.080157,
+    "Bipolar Rate":0.5818194,
+    "ED Rate":0.09564634
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "FIELD1":5399,
+    "Unnamed: 0":5759,
+    "Entity":"Ukraine",
+    "Year":2019,
+    "Schizophrenia Rate":0.27143335,
+    "Depression Rate":3.8973033,
+    "Anxiety Rate":3.133128,
+    "Bipolar Rate":0.5213342,
+    "ED Rate":0.121123455
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.847818,23.424076 ]
+    },
+    "properties": {
+    "FIELD1":5429,
+    "Unnamed: 0":5789,
+    "Entity":"United Arab Emirates",
+    "Year":2019,
+    "Schizophrenia Rate":0.27531648,
+    "Depression Rate":3.5784907,
+    "Anxiety Rate":4.243272,
+    "Bipolar Rate":0.752012,
+    "ED Rate":0.30040544
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "FIELD1":5459,
+    "Unnamed: 0":5819,
+    "Entity":"United Kingdom",
+    "Year":2019,
+    "Schizophrenia Rate":0.24625693,
+    "Depression Rate":4.0975676,
+    "Anxiety Rate":4.4602027,
+    "Bipolar Rate":1.0944765,
+    "ED Rate":0.4250394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.712891,37.09024 ]
+    },
+    "properties": {
+    "FIELD1":5489,
+    "Unnamed: 0":5849,
+    "Entity":"United States",
+    "Year":2019,
+    "Schizophrenia Rate":0.43364868,
+    "Depression Rate":4.375998,
+    "Anxiety Rate":5.6977477,
+    "Bipolar Rate":0.6012978,
+    "ED Rate":0.42435044
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765835,-32.522779 ]
+    },
+    "properties": {
+    "FIELD1":5519,
+    "Unnamed: 0":5909,
+    "Entity":"Uruguay",
+    "Year":2019,
+    "Schizophrenia Rate":0.3134878,
+    "Depression Rate":2.840908,
+    "Anxiety Rate":5.1539445,
+    "Bipolar Rate":0.9843416,
+    "ED Rate":0.3535729
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "FIELD1":5549,
+    "Unnamed: 0":5939,
+    "Entity":"Uzbekistan",
+    "Year":2019,
+    "Schizophrenia Rate":0.2701455,
+    "Depression Rate":3.164448,
+    "Anxiety Rate":2.0256548,
+    "Bipolar Rate":0.5113078,
+    "ED Rate":0.11560703
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.959158,-15.376706 ]
+    },
+    "properties": {
+    "FIELD1":5579,
+    "Unnamed: 0":5969,
+    "Entity":"Vanuatu",
+    "Year":2019,
+    "Schizophrenia Rate":0.26988906,
+    "Depression Rate":2.9744234,
+    "Anxiety Rate":4.02928,
+    "Bipolar Rate":0.26652375,
+    "ED Rate":0.077522516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "FIELD1":5609,
+    "Unnamed: 0":5999,
+    "Entity":"Venezuela",
+    "Year":2019,
+    "Schizophrenia Rate":0.2758915,
+    "Depression Rate":3.2147944,
+    "Anxiety Rate":3.9995134,
+    "Bipolar Rate":0.83046305,
+    "ED Rate":0.21330635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.277199,14.058324 ]
+    },
+    "properties": {
+    "FIELD1":5639,
+    "Unnamed: 0":6029,
+    "Entity":"Vietnam",
+    "Year":2019,
+    "Schizophrenia Rate":0.32355136,
+    "Depression Rate":2.473061,
+    "Anxiety Rate":2.2873394,
+    "Bipolar Rate":0.33610305,
+    "ED Rate":0.09474524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.516388,15.552727 ]
+    },
+    "properties": {
+    "FIELD1":5669,
+    "Unnamed: 0":6089,
+    "Entity":"Yemen",
+    "Year":2019,
+    "Schizophrenia Rate":0.22567965,
+    "Depression Rate":4.8953676,
+    "Anxiety Rate":4.7837157,
+    "Bipolar Rate":0.72597986,
+    "ED Rate":0.12351241
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.849332,-13.133897 ]
+    },
+    "properties": {
+    "FIELD1":5699,
+    "Unnamed: 0":6119,
+    "Entity":"Zambia",
+    "Year":2019,
+    "Schizophrenia Rate":0.21286875,
+    "Depression Rate":4.2194896,
+    "Anxiety Rate":3.9692068,
+    "Bipolar Rate":0.5744539,
+    "ED Rate":0.11466904
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "FIELD1":5729,
+    "Unnamed: 0":6149,
+    "Entity":"Zimbabwe",
+    "Year":2019,
+    "Schizophrenia Rate":0.20248154,
+    "Depression Rate":3.3954756,
+    "Anxiety Rate":3.1370168,
+    "Bipolar Rate":0.5385804,
+    "ED Rate":0.09829536
+    }
+  }
+]
+}
