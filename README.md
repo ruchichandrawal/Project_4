@@ -117,7 +117,10 @@ https://public.tableau.com/app/profile/ruchi.chandrawal/viz/WorldwideMentalHealt
 
 
 **Tye Smith**
+
 *Pie Chart percentage of each answer in survey*
+
+Note: The pie chart shows 73 percent of all survey answers are mixed with no correlation, meanwhile all data that shows any kind of trend is under 20 percent. This shows that working from home vs not working from home is not a predictor of whather someone will show mental and physical illness.
 
 ![alt text](https://github.com/ruchichandrawal/Project_4/blob/main/test_tye/images/Pie_chart_edited.png)
 
