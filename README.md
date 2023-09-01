@@ -57,7 +57,7 @@ The analysis of this mental health dataset offers valuable insights into the com
 
 3 AI models were created to determine which factors most strongly predict 1. If an employee will seek mental health treatment and an additional 3 models to determine which factors most strongly predict 2. If an employee will report that their mental health interferes with their work. Models used include: Logistic regression, decison tree classifier, and random forest classifier. All models were assessed for precision, recall, and accuracy using confusion matrix. Features of importance were identified based on the Random Forest Model.
 ![image](https://github.com/ruchichandrawal/Project_4/blob/main/test_emily/Visualizations/Feature%20Importances%20for%20Predicting%20Employee%20to%20Seek%20MH%20Treatment.png)
-
+![image](https://github.com/ruchichandrawal/Project_4/blob/main/test_emily/Visualizations/Feature%20Importances%20for%20Predicting%20Employee%20Report%20of%20MH%20Interfering%20with%20Work.png)
 
 # Comparison of Females vs Males Who Seek Treatment for Poor Mental Health by Age Range - Lauren Phelps
 
